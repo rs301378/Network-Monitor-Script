@@ -2,7 +2,7 @@
 
 Internet connection check script. If connection is down then it will send email to the particular mail that host is down.
 ************************************************************************************************************************
-**How to Run: -**
+**How to Run: -** <br><br>
 `chmod +x monitor.sh`
 `./monitor.sh google.com`
 or
