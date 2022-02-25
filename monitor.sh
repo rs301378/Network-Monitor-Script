@@ -14,7 +14,7 @@
 LOG=/tmp/monitor_log.log #create log file first
 SECONDS=60 #script will run every 60 seconds
 
-EMAIL=rs301378@gmail.com  #put any email id
+EMAIL=email-id@gmail.com  #put any email id
 
 for i in $@; do
 	echo "$i-UP!" > $LOG.$in
